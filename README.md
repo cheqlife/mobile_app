@@ -1,1 +1,1 @@
-# mobile_app
+# The cheqLife mobile app
